@@ -18,11 +18,10 @@ h1 {
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #a32f80;
   font-weight: normal;
-  padding-bottom: 10px;
-  padding: 0px;
+
 }
 
 h3 {
@@ -42,7 +41,7 @@ a:hover {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #472b62 6px;
   border-bottom: none;
   width: 5%;
   margin: 100px auto 100px auto;
