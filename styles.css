@@ -29,15 +29,20 @@ h3 {
   color: #a32f80;
 }
 
+h5 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+
 a {
   font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
-  color: #c7f0db;
+  margin: 10px 0px;
+  color: #bc4873;
   text-decoration: none;
 }
 
 a:hover {
-  color: #eaf6f6;
+  color: #472b62;
 }
 
 hr {
@@ -47,14 +52,17 @@ hr {
   margin: 100px auto 100px auto;
 }
 
+.card-text{
+  text-align: left;
+}
 .skill-row {
   width: 80%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
 
-.top-container {
-  background-color: #341677;
+.top-container-top {
+  background-color: #38224E;
   position: relative;
   padding: 80px;
 }
@@ -71,7 +79,7 @@ hr {
 
 .bottom-container {
   margin-top: 100px;
-  background-color: #341677;
+  background-color: #38224E;
   padding: 50px 0 20px 0;
 }
 
@@ -91,7 +99,7 @@ hr {
   margin-left: 30px;
 }
 
-.wine {
+.rocket {
   float: left;
   margin-right: 30px;
 }
@@ -121,7 +129,7 @@ margin: 0 auto 0 auto;
 .btn {
   text-align: center;
   box-shadow: 0px 10px 14px -7px #276873;
-  background-color: #341677;
+  background-color: #38224E;
   border-radius: 12px;
   display: inline-block;
   cursor: pointer;
@@ -145,4 +153,17 @@ margin: 0 auto 0 auto;
 
 .footer-link{
   color: #a32f80;
+}
+
+.card-deck{
+  margin: 20px 20px 20px 20px;
+}
+.card-img-top{
+  width: 10%;
+
+}
+
+.vibe{
+  font-family: 'Sacramento', cursive;
+
 }
