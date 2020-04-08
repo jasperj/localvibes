@@ -97,7 +97,7 @@ hr {
   margin-right: 30px;
 }
 
-.cafe {
+.drink {
   float: right;
   margin-left: 30px;
 }
@@ -165,11 +165,10 @@ margin: 0 auto 0 auto;
 .card-deck{
   margin: 20px 20px 20px 20px;
 }
+
 .card-img-top{
   width: 10%;
-
 }
-
 
 .card-title{
   text-align: center;
