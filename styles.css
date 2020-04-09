@@ -68,9 +68,18 @@ hr {
   position: relative;
   padding: 80px;
 }
+.top-container-top-guide {
+  background-image: linear-gradient(rgba(75, 250, 250, 0.5), rgba(250, 92, 238, 0.5));
+  position: relative;
+  padding: 10px;
+}
 
 .middle-container {
   margin: 100px 0;
+}
+
+.middle-container-guide{
+  margin: 40px 60px;
 }
 
 .profile{
@@ -163,7 +172,7 @@ margin: 0 auto 0 auto;
 }
 
 .card-deck{
-  margin: 20px 20px 20px 20px;
+  margin: 20px 0px 20px 0px;
 }
 
 .card-img-top{
