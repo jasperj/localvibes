@@ -51,6 +51,12 @@ btn.active {
   color: white;
 }
 
+
+.btn{
+  margin: 10px 5px;
+
+}
+
 .card {
   float: left;
   background-color: white;
